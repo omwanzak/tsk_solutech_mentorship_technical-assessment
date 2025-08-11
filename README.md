@@ -1,5 +1,3 @@
-<img width="512" height="288" alt="unnamed" src="https://github.com/user-attachments/assets/e455d2af-9c2b-4f0c-b1f6-d71179f030dd" />
-
 # 🌟 TSK x Solutech Mentorship — Technical Assessment
 
 **Tech Sisters Kenya: Elevating Women in Technology**
@@ -40,11 +38,11 @@ tsk-solutech-assignment/
 ├── README.md                     # Overview of the challenge
 ├── challenges/
 │   ├── guidelines/               # Tips, FAQs, and resources
-│   │   └── index.md              # Main guidelines file (optional)
+│   │                             # Main guidelines file (optional)
 │   ├── solution_A/
-│   │   └── solution.md           # Solution A documentation
+│   │                             # Solution A documentation
 │   ├── solution_B/
-│   │   └── solution.md           # Solution B documentation
+│   │                             # Solution B documentation
 ```
 
 ---
@@ -108,13 +106,16 @@ Please record a 3–4 minute video introducing yourself. Include:
 ## 📌 Submission Instructions
 
 1. Fork this repository to your GitHub account  
-2. Clone it to your local machine  
-3. Add this `solutions.md` file with:
+2. Clone it to your local machine
+3. Create a branch of your own (consider using your name if possible)
+4. Add the `solutions` files with:
    - Answers for Sections A & B
    - Your video link
    - Any notes or clarifications
-4. Include instructions on how to run/test your code  
-5. Keep your repo clean and well-organized  
+5. Include instructions on how to run/test your code  
+6. Keep your repo clean and well-organized
+7. Send an email with the subject **Technical Assessment** containing your updated **cloned github link**.
+
 
 ---
 
