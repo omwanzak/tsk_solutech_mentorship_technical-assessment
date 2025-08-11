@@ -1,5 +1,3 @@
-<img width="512" height="288" alt="unnamed" src="https://github.com/user-attachments/assets/864195ff-d600-4cf7-a4ec-97c8378af7ba" />
-
 ## 🧠 Section A: Logical Thinking & System Design
 
 **Scenario:**  
