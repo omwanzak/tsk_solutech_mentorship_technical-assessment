@@ -1,5 +1,3 @@
-<img width="512" height="288" alt="unnamed" src="https://github.com/user-attachments/assets/41ae73e6-00e6-43e7-b118-a7f32b5271d2" />
-
 ## 💻 Section B: Problem Solving Task
 
 **Challenge:**  
