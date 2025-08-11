@@ -1,7 +1,7 @@
 ## 💻 Section B: Problem Solving Task
 
 **Challenge:**  
-Write pseudocode or  and code in any Laravel (PHP) and JavaScript/TypeScript (Next.js programming language for the following challenge:
+Write pseudocode or  code in Laravel (PHP) or JavaScript/TypeScript (Next.js programming language for the following challenge:
 Given a list of services with ratings, return the top 3 in descending order.
 
 ### Example Input:
