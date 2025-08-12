@@ -22,3 +22,11 @@ Given a list of services with ratings, return the top 3 in descending order.
   { "name": "Tutoring", "rating": 4.6 }
 ]
 ```
+
+```javascript
+function top3Services(services) {
+  return services
+    .sort((a,b) => b.rating - a.rating)
+    .slice(0,3);
+}
+```

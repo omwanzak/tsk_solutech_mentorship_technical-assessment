@@ -13,6 +13,7 @@ Please record a 3–4 minute video introducing yourself. Include:
 📎 **Paste Video Link: here** 
 
 ---
+https://youtu.be/qDJBK0fEba4
 
 ## ✅ Step 1: Record Your Video
 
@@ -45,6 +46,8 @@ You may use your **phone**, **laptop webcam**, or any recording tool you’re co
 Once the upload is complete:
 - Copy the **video link**
 - Paste the link 
+
+ https://youtu.be/qDJBK0fEba4
 
 🚫 Please **do not set it to Private**, as we won’t be able to view it.
 
